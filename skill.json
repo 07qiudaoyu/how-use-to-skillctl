@@ -8,5 +8,5 @@
   "tags": ["automation", "ai"],
   "agents": ["claude-code", "cursor", "dsh","qoder"],
   "dependencies": [],
-  "minCliVersion": "1.0.0"
+  "minCliVersion": "1.0.1"
 }
