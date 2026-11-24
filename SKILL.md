@@ -1,6 +1,6 @@
 ---
 name: how-use-to-skillctl
-description: 用于指示用户 Agent 怎么快速使用 skillctl
+description: 用于指示用户Agent怎么快速使用 skillctl
 license: MIT
 ---
 
